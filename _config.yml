@@ -1,0 +1,28 @@
+name: 4 Season Properties
+favicon: null
+layout_spectrum: 0.6626479211263359
+typography_spectrum: 0.5235760051291436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2364722597412765
+  lightness: 0.6161918637808412
+  saturation: 0.7980260846670717
+  rhythmicContrast: 0.4594695505220443
+purpose: []
